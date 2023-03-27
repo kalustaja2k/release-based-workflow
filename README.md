@@ -89,7 +89,7 @@ To set the stage for later, let's also add a bug that we'll fix as part of the r
 </details>
 
 <!--Step 2-->
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 _Great job creating a beta release :heart:_
@@ -173,7 +173,7 @@ Let's make a new pull request comparing the `release-v1.0` branch to the `main` 
 </details>
 
 <!--Step 4-->
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Generate release notes and merge</h2></summary>
 
 _Thanks for opening that pull request :dancer:_
